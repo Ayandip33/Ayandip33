@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with collaborations in various projects.
 - 💬 Ask me about my project idea.
 - 📫 How to reach me : contact me via mail id : ayandipsen33@gmail.com
-- ⚡ Fun fact: Always open to discuss about any idea.
+- ⚡ Fun fact: Always open to discuss about new ideas.
 
