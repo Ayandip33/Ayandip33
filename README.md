@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with collaborations in various projects.
 - 💬 Ask me about my project idea.
-- 📫 How to reach me : contact me via mail id : ayandipsen33@gmail.com
+- 📫 How to reach me : contact me via mail : ayandipsen33@gmail.com
 - ⚡ Fun fact: Always open to discuss about new ideas.
 
