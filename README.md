@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Always open to discuss about new ideas.
 
 ![image](https://github-readme-stats.vercel.app/api?username=ayandip33)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayandip33&theme=vue)
