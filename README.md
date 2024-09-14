@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me : contact me via mail : ayandipsen33@gmail.com
 - ⚡ Fun fact: Always open to discuss about new ideas.
 
+![image](https://github-readme-stats.vercel.app/api?username=ayandip33)
